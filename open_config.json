@@ -1,0 +1,395 @@
+{
+    "video": {
+        "sites": [
+            {
+                "key": "changzhang",
+                "name": "🏭️┃厂长直连┃🏭️",
+                "api": "./js/changzhang.js",
+                "timeout": 30,
+                "ext": {
+                    "box": "CatOpen",
+                    "aliToken": "e0eff4803abb446ab7baed8365422902",
+                    "quarkCookie": "_UP_A4A_11_=wb9651862f6c494a8766808bf1d76eff; _UP_D_=pc; _UP_F7E_8D_=0z44HdIBxZZOcBCDcGRBCA4nyiLdGp0K%2BXLtDXslpaZwt2tWl93PB3vRGFpvSiDCxCrsfkXmOBOIbELvsKV6N7Qey3LIThbBZYYBSlEw%2FhFvnlMM%2FoU51YjKLHiThZj4jaLLO9AVQUwLNou9CehuHWlMWS1rXVfbZXRHxH%2Fc5ejTk%2FYYBSlxZ2dk3A9f%2FCMRGesE6CxTPIzpV4OIH2rmX0VF6jsQF6Mjj3zd%2Fr57GvWdSoxLVcoYHkXX1wNOJwq%2FLfBUIZ8p2p0yRAORAh4Ub%2FExa23X%2BeAee8ms%2FNoVr8FANK4v8a%2BQ2MHioDqQO2Iml2%2B2H3zLzMHfdzjPhIn9KLnVmIzq%2FTTa5GH40CMVkY7o01GI0ATtUO91YJ0UKEIX39siXgbW2M9npW%2F75YhAoYvCphdd0pvjAl37%2Fu6rZ9%2BAuY0UFHP8TZpAjXZfykY6Bw2eJBV4FBFSwLwKW%2Fv64A%3D%3D; _UP_30C_6A_=st9656201988x4f9s5u7k25rn94x443v; _UP_TS_=sg115433f1ee8e70e0b2c745a9181392f63; _UP_E37_B7_=sg115433f1ee8e70e0b2c745a9181392f63; _UP_TG_=st9656201988x4f9s5u7k25rn94x443v; _UP_335_2B_=1; __pus=104e967d110878521b6df1d9f6546c03AASCTtzaNF5mymJVQqt/eqN0sKng3NQKS/AnEbwHH60RF3FpZL7z/VS8mVCu3bx/Binsr7SIUtQWIGy+PsiArT7r; __kp=3cd98140-18fb-11ef-ac79-6fe31ea8d29b; __kps=AATigrIm8ZMkmgRe84X0L60X; __ktd=fHE/q+Gp/erxdMxL10N+jA==; __uid=AATigrIm8ZMkmgRe84X0L60X; __puus=7ddfaad858a8a0951d70a39907569e44AAT3QFzCWPB8b2x5VBflU9Q/b5iOrD8AEVghTNZYXWqTfZcQwxIsl9RcE8/fsAgIE3uMVLPhxEH5hM1lotc2Kkq7dW1UaMbu80Bcpa0V8mfXP/7Jzi/h3cb/Ud+KgjqkLkVZ9cmtwDIEolOVZuZcp4ZxAhIRZ1bjEbuP/40TRl3EUZ8FnN+n0tTy+15/fyVNGmxNs2N5IkbuLpIbuv7Bh8mV"
+                },
+                "playerType": 0,
+                "type": 3
+            },
+            {
+                "key": "aiyingshi",
+                "name": "🚀‍┃爱影视┃🚀",
+                "api": "./js/aiyingshi.js",
+                "timeout": 30,
+                "ext": {
+                    "box": "CatOpen"
+                },
+                "playerType": 0,
+                "type": 3
+            },
+            {
+                "key": "wogg",
+                "name": "💂‍┃阿里玩偶┃💂",
+                "api": "./js/wogg.js",
+                "timeout": 30,
+                "ext": {
+                    "box": "CatOpen",
+                    "aliToken": "e0eff4803abb446ab7baed8365422902",
+                    "quarkCookie": "_UP_A4A_11_=wb9651862f6c494a8766808bf1d76eff; _UP_D_=pc; _UP_F7E_8D_=0z44HdIBxZZOcBCDcGRBCA4nyiLdGp0K%2BXLtDXslpaZwt2tWl93PB3vRGFpvSiDCxCrsfkXmOBOIbELvsKV6N7Qey3LIThbBZYYBSlEw%2FhFvnlMM%2FoU51YjKLHiThZj4jaLLO9AVQUwLNou9CehuHWlMWS1rXVfbZXRHxH%2Fc5ejTk%2FYYBSlxZ2dk3A9f%2FCMRGesE6CxTPIzpV4OIH2rmX0VF6jsQF6Mjj3zd%2Fr57GvWdSoxLVcoYHkXX1wNOJwq%2FLfBUIZ8p2p0yRAORAh4Ub%2FExa23X%2BeAee8ms%2FNoVr8FANK4v8a%2BQ2MHioDqQO2Iml2%2B2H3zLzMHfdzjPhIn9KLnVmIzq%2FTTa5GH40CMVkY7o01GI0ATtUO91YJ0UKEIX39siXgbW2M9npW%2F75YhAoYvCphdd0pvjAl37%2Fu6rZ9%2BAuY0UFHP8TZpAjXZfykY6Bw2eJBV4FBFSwLwKW%2Fv64A%3D%3D; _UP_30C_6A_=st9656201988x4f9s5u7k25rn94x443v; _UP_TS_=sg115433f1ee8e70e0b2c745a9181392f63; _UP_E37_B7_=sg115433f1ee8e70e0b2c745a9181392f63; _UP_TG_=st9656201988x4f9s5u7k25rn94x443v; _UP_335_2B_=1; __pus=104e967d110878521b6df1d9f6546c03AASCTtzaNF5mymJVQqt/eqN0sKng3NQKS/AnEbwHH60RF3FpZL7z/VS8mVCu3bx/Binsr7SIUtQWIGy+PsiArT7r; __kp=3cd98140-18fb-11ef-ac79-6fe31ea8d29b; __kps=AATigrIm8ZMkmgRe84X0L60X; __ktd=fHE/q+Gp/erxdMxL10N+jA==; __uid=AATigrIm8ZMkmgRe84X0L60X; __puus=7ddfaad858a8a0951d70a39907569e44AAT3QFzCWPB8b2x5VBflU9Q/b5iOrD8AEVghTNZYXWqTfZcQwxIsl9RcE8/fsAgIE3uMVLPhxEH5hM1lotc2Kkq7dW1UaMbu80Bcpa0V8mfXP/7Jzi/h3cb/Ud+KgjqkLkVZ9cmtwDIEolOVZuZcp4ZxAhIRZ1bjEbuP/40TRl3EUZ8FnN+n0tTy+15/fyVNGmxNs2N5IkbuLpIbuv7Bh8mV"
+                },
+                "playerType": 0,
+                "type": 3
+            },
+            {
+                "key": "dubo",
+                "name": "🛶┃独播影视┃🛶",
+                "api": "./js/dubo.js",
+                "timeout": 30,
+                "ext": {
+                    "box": "CatOpen"
+                },
+                "playerType": 0,
+                "type": 3
+            },
+            {
+                "key": "tiantian",
+                "name": "⛄┃天天影视┃⛄",
+                "api": "./js/tiantian.js",
+                "timeout": 30,
+                "ext": {
+                    "box": "CatOpen"
+                },
+                "playerType": 0,
+                "type": 3
+            },
+            {
+                "key": "sp360",
+                "name": "🥎┃360影视┃🥎",
+                "api": "./js/sp360.js",
+                "timeout": 30,
+                "ext": {
+                    "box": "CatOpen"
+                },
+                "playerType": 0,
+                "type": 3
+            },
+            {
+                "key": "pan_search",
+                "name": "🗂️┃阿里盘搜┃🗂️",
+                "api": "./js/pan_search.js",
+                "timeout": 30,
+                "ext": {
+                    "box": "CatOpen",
+                    "aliToken": "e0eff4803abb446ab7baed8365422902",
+                    "quarkCookie": "_UP_A4A_11_=wb9651862f6c494a8766808bf1d76eff; _UP_D_=pc; _UP_F7E_8D_=0z44HdIBxZZOcBCDcGRBCA4nyiLdGp0K%2BXLtDXslpaZwt2tWl93PB3vRGFpvSiDCxCrsfkXmOBOIbELvsKV6N7Qey3LIThbBZYYBSlEw%2FhFvnlMM%2FoU51YjKLHiThZj4jaLLO9AVQUwLNou9CehuHWlMWS1rXVfbZXRHxH%2Fc5ejTk%2FYYBSlxZ2dk3A9f%2FCMRGesE6CxTPIzpV4OIH2rmX0VF6jsQF6Mjj3zd%2Fr57GvWdSoxLVcoYHkXX1wNOJwq%2FLfBUIZ8p2p0yRAORAh4Ub%2FExa23X%2BeAee8ms%2FNoVr8FANK4v8a%2BQ2MHioDqQO2Iml2%2B2H3zLzMHfdzjPhIn9KLnVmIzq%2FTTa5GH40CMVkY7o01GI0ATtUO91YJ0UKEIX39siXgbW2M9npW%2F75YhAoYvCphdd0pvjAl37%2Fu6rZ9%2BAuY0UFHP8TZpAjXZfykY6Bw2eJBV4FBFSwLwKW%2Fv64A%3D%3D; _UP_30C_6A_=st9656201988x4f9s5u7k25rn94x443v; _UP_TS_=sg115433f1ee8e70e0b2c745a9181392f63; _UP_E37_B7_=sg115433f1ee8e70e0b2c745a9181392f63; _UP_TG_=st9656201988x4f9s5u7k25rn94x443v; _UP_335_2B_=1; __pus=104e967d110878521b6df1d9f6546c03AASCTtzaNF5mymJVQqt/eqN0sKng3NQKS/AnEbwHH60RF3FpZL7z/VS8mVCu3bx/Binsr7SIUtQWIGy+PsiArT7r; __kp=3cd98140-18fb-11ef-ac79-6fe31ea8d29b; __kps=AATigrIm8ZMkmgRe84X0L60X; __ktd=fHE/q+Gp/erxdMxL10N+jA==; __uid=AATigrIm8ZMkmgRe84X0L60X; __puus=7ddfaad858a8a0951d70a39907569e44AAT3QFzCWPB8b2x5VBflU9Q/b5iOrD8AEVghTNZYXWqTfZcQwxIsl9RcE8/fsAgIE3uMVLPhxEH5hM1lotc2Kkq7dW1UaMbu80Bcpa0V8mfXP/7Jzi/h3cb/Ud+KgjqkLkVZ9cmtwDIEolOVZuZcp4ZxAhIRZ1bjEbuP/40TRl3EUZ8FnN+n0tTy+15/fyVNGmxNs2N5IkbuLpIbuv7Bh8mV"
+                },
+                "playerType": 0,
+                "type": 3
+            },
+            {
+                "key": "star",
+                "name": "☄️┃星视界┃墙☄️",
+                "api": "./js/star.js",
+                "timeout": 30,
+                "ext": {
+                    "box": "CatOpen"
+                },
+                "playerType": 0,
+                "type": 3
+            },
+            {
+                "key": "cntv",
+                "name": "🤵‍♂️┃中央影视┃🤵‍♂️",
+                "api": "./js/cntv.js",
+                "timeout": 30,
+                "ext": {
+                    "box": "CatOpen"
+                },
+                "playerType": 0,
+                "type": 3
+            },
+            {
+                "key": "haiwaikan",
+                "name": "☕┃海外看┃☕墙",
+                "api": "./js/haiwaikan.js",
+                "timeout": 30,
+                "ext": {
+                    "box": "CatOpen"
+                },
+                "playerType": 0,
+                "type": 3
+            },
+            {
+                "key": "cilixiong",
+                "name": "🐻┃磁力熊┃🐻",
+                "api": "./js/cilixiong.js",
+                "timeout": 30,
+                "ext": {
+                    "box": "CatOpen"
+                },
+                "playerType": 0,
+                "type": 3
+            },
+            {
+                "key": "gitcafe",
+                "name": "🦊┃阿里纸条┃🦊",
+                "api": "./js/gitcafe.js",
+                "timeout": 30,
+                "ext": {
+                    "box": "CatOpen",
+                    "aliToken": "e0eff4803abb446ab7baed8365422902",
+                    "quarkCookie": "_UP_A4A_11_=wb9651862f6c494a8766808bf1d76eff; _UP_D_=pc; _UP_F7E_8D_=0z44HdIBxZZOcBCDcGRBCA4nyiLdGp0K%2BXLtDXslpaZwt2tWl93PB3vRGFpvSiDCxCrsfkXmOBOIbELvsKV6N7Qey3LIThbBZYYBSlEw%2FhFvnlMM%2FoU51YjKLHiThZj4jaLLO9AVQUwLNou9CehuHWlMWS1rXVfbZXRHxH%2Fc5ejTk%2FYYBSlxZ2dk3A9f%2FCMRGesE6CxTPIzpV4OIH2rmX0VF6jsQF6Mjj3zd%2Fr57GvWdSoxLVcoYHkXX1wNOJwq%2FLfBUIZ8p2p0yRAORAh4Ub%2FExa23X%2BeAee8ms%2FNoVr8FANK4v8a%2BQ2MHioDqQO2Iml2%2B2H3zLzMHfdzjPhIn9KLnVmIzq%2FTTa5GH40CMVkY7o01GI0ATtUO91YJ0UKEIX39siXgbW2M9npW%2F75YhAoYvCphdd0pvjAl37%2Fu6rZ9%2BAuY0UFHP8TZpAjXZfykY6Bw2eJBV4FBFSwLwKW%2Fv64A%3D%3D; _UP_30C_6A_=st9656201988x4f9s5u7k25rn94x443v; _UP_TS_=sg115433f1ee8e70e0b2c745a9181392f63; _UP_E37_B7_=sg115433f1ee8e70e0b2c745a9181392f63; _UP_TG_=st9656201988x4f9s5u7k25rn94x443v; _UP_335_2B_=1; __pus=104e967d110878521b6df1d9f6546c03AASCTtzaNF5mymJVQqt/eqN0sKng3NQKS/AnEbwHH60RF3FpZL7z/VS8mVCu3bx/Binsr7SIUtQWIGy+PsiArT7r; __kp=3cd98140-18fb-11ef-ac79-6fe31ea8d29b; __kps=AATigrIm8ZMkmgRe84X0L60X; __ktd=fHE/q+Gp/erxdMxL10N+jA==; __uid=AATigrIm8ZMkmgRe84X0L60X; __puus=7ddfaad858a8a0951d70a39907569e44AAT3QFzCWPB8b2x5VBflU9Q/b5iOrD8AEVghTNZYXWqTfZcQwxIsl9RcE8/fsAgIE3uMVLPhxEH5hM1lotc2Kkq7dW1UaMbu80Bcpa0V8mfXP/7Jzi/h3cb/Ud+KgjqkLkVZ9cmtwDIEolOVZuZcp4ZxAhIRZ1bjEbuP/40TRl3EUZ8FnN+n0tTy+15/fyVNGmxNs2N5IkbuLpIbuv7Bh8mV"
+                },
+                "playerType": 0,
+                "type": 3
+            },
+            {
+                "key": "kankan70",
+                "name": "📺┃70看看┃📺",
+                "api": "./js/kankan70.js",
+                "timeout": 30,
+                "ext": {
+                    "box": "CatOpen"
+                },
+                "playerType": 0,
+                "type": 3
+            },
+            {
+                "key": "lovemovie",
+                "name": "💕┃爱情电影网┃💕",
+                "api": "./js/lovemovie.js",
+                "timeout": 30,
+                "ext": {
+                    "box": "CatOpen"
+                },
+                "playerType": 0,
+                "type": 3
+            },
+            {
+                "key": "nangua",
+                "name": "🎃┃南瓜影视┃🎃",
+                "api": "./js/nangua.js",
+                "timeout": 30,
+                "ext": {
+                    "box": "CatOpen"
+                },
+                "playerType": 0,
+                "type": 3
+            },
+            {
+                "key": "mp4movie",
+                "name": "🍚┃Mp4电影┃🍚",
+                "api": "./js/mp4movie.js",
+                "timeout": 30,
+                "ext": {
+                    "box": "CatOpen"
+                },
+                "playerType": 0,
+                "type": 3
+            },
+            {
+                "key": "bilibili",
+                "name": "🏰┃哔哩哔哩┃🏰",
+                "api": "./js/bilibili.js",
+                "timeout": 30,
+                "ext": {
+                    "box": "CatOpen",
+                    "cookie": "e3633b40%2C1729863936%2C7a626%2A42CjCAheDBYUzUQwRX5_Ei2yqjmtuHvLiM2ve7xKZWnf-U5nqNOnDpPdr3GWstpLK-Na4SVm9zUzVpckpMT0t1LXNwWlllS0lwR3dfMTIyaFlrN2ZwYWpUeGYySGU4SlpkUVZwbFJJV2xYWnI0eHF5M1N5d0dfMVlic0NGeXpTN3RPVDNhM3hELVNRIIEC"
+                },
+                "playerType": 0,
+                "type": 3
+            },
+            {
+                "key": "mxanime",
+                "name": "🍒┃MX动漫┃🍒",
+                "api": "./js/mxanime.js",
+                "timeout": 30,
+                "ext": {
+                    "box": "CatOpen"
+                },
+                "playerType": 0,
+                "type": 3
+            },
+            {
+                "key": "newvision",
+                "name": "🐼┃新视觉影院┃🐼",
+                "api": "./js/newvision.js",
+                "timeout": 30,
+                "ext": {
+                    "box": "CatOpen"
+                },
+                "playerType": 0,
+                "type": 3
+            },
+            {
+                "key": "nivod",
+                "name": "👑‍┃泥视频┃墙👑",
+                "api": "./js/nivod.js",
+                "timeout": 30,
+                "ext": {
+                    "box": "CatOpen",
+                    "code": 0
+                },
+                "playerType": 0,
+                "type": 3
+            },
+            {
+                "key": "huya",
+                "name": "🐯┃虎牙直播┃🐯",
+                "api": "./js/huya.js",
+                "timeout": 30,
+                "ext": {
+                    "box": "CatOpen"
+                },
+                "playerType": 0,
+                "type": 3
+            },
+            {
+                "key": "xb6v",
+                "name": "🧲┃磁力新6V┃🧲",
+                "api": "./js/xb6v.js",
+                "timeout": 30,
+                "ext": {
+                    "box": "CatOpen"
+                },
+                "playerType": 0,
+                "type": 3
+            },
+            {
+                "key": "jianpian",
+                "name": "🌼┃荐片┃🌼",
+                "api": "./js/jianpian.js",
+                "timeout": 30,
+                "ext": {
+                    "box": "CatOpen"
+                },
+                "playerType": 0,
+                "type": 3
+            },
+            {
+                "key": "dygangs",
+                "name": "🏖️┃电影港┃🏖️",
+                "api": "./js/dygangs.js",
+                "timeout": 30,
+                "ext": {
+                    "box": "CatOpen"
+                },
+                "playerType": 0,
+                "type": 3
+            },
+            {
+                "key": "aliyunpanshare",
+                "name": "🥏‍┃阿里云盘分享┃🥏‍",
+                "api": "./js/aliyunpanshare.js",
+                "timeout": 30,
+                "ext": {
+                    "box": "CatOpen",
+                    "aliToken": "e0eff4803abb446ab7baed8365422902",
+                    "quarkCookie": "_UP_A4A_11_=wb9651862f6c494a8766808bf1d76eff; _UP_D_=pc; _UP_F7E_8D_=0z44HdIBxZZOcBCDcGRBCA4nyiLdGp0K%2BXLtDXslpaZwt2tWl93PB3vRGFpvSiDCxCrsfkXmOBOIbELvsKV6N7Qey3LIThbBZYYBSlEw%2FhFvnlMM%2FoU51YjKLHiThZj4jaLLO9AVQUwLNou9CehuHWlMWS1rXVfbZXRHxH%2Fc5ejTk%2FYYBSlxZ2dk3A9f%2FCMRGesE6CxTPIzpV4OIH2rmX0VF6jsQF6Mjj3zd%2Fr57GvWdSoxLVcoYHkXX1wNOJwq%2FLfBUIZ8p2p0yRAORAh4Ub%2FExa23X%2BeAee8ms%2FNoVr8FANK4v8a%2BQ2MHioDqQO2Iml2%2B2H3zLzMHfdzjPhIn9KLnVmIzq%2FTTa5GH40CMVkY7o01GI0ATtUO91YJ0UKEIX39siXgbW2M9npW%2F75YhAoYvCphdd0pvjAl37%2Fu6rZ9%2BAuY0UFHP8TZpAjXZfykY6Bw2eJBV4FBFSwLwKW%2Fv64A%3D%3D; _UP_30C_6A_=st9656201988x4f9s5u7k25rn94x443v; _UP_TS_=sg115433f1ee8e70e0b2c745a9181392f63; _UP_E37_B7_=sg115433f1ee8e70e0b2c745a9181392f63; _UP_TG_=st9656201988x4f9s5u7k25rn94x443v; _UP_335_2B_=1; __pus=104e967d110878521b6df1d9f6546c03AASCTtzaNF5mymJVQqt/eqN0sKng3NQKS/AnEbwHH60RF3FpZL7z/VS8mVCu3bx/Binsr7SIUtQWIGy+PsiArT7r; __kp=3cd98140-18fb-11ef-ac79-6fe31ea8d29b; __kps=AATigrIm8ZMkmgRe84X0L60X; __ktd=fHE/q+Gp/erxdMxL10N+jA==; __uid=AATigrIm8ZMkmgRe84X0L60X; __puus=7ddfaad858a8a0951d70a39907569e44AAT3QFzCWPB8b2x5VBflU9Q/b5iOrD8AEVghTNZYXWqTfZcQwxIsl9RcE8/fsAgIE3uMVLPhxEH5hM1lotc2Kkq7dW1UaMbu80Bcpa0V8mfXP/7Jzi/h3cb/Ud+KgjqkLkVZ9cmtwDIEolOVZuZcp4ZxAhIRZ1bjEbuP/40TRl3EUZ8FnN+n0tTy+15/fyVNGmxNs2N5IkbuLpIbuv7Bh8mV"
+                },
+                "playerType": 0,
+                "type": 3
+            },
+            {
+                "key": "alipansou",
+                "name": "😸┃阿里猫狸┃😸",
+                "api": "./js/alipansou.js",
+                "timeout": 30,
+                "ext": {
+                    "box": "CatOpen",
+                    "aliToken": "e0eff4803abb446ab7baed8365422902",
+                    "quarkCookie": "_UP_A4A_11_=wb9651862f6c494a8766808bf1d76eff; _UP_D_=pc; _UP_F7E_8D_=0z44HdIBxZZOcBCDcGRBCA4nyiLdGp0K%2BXLtDXslpaZwt2tWl93PB3vRGFpvSiDCxCrsfkXmOBOIbELvsKV6N7Qey3LIThbBZYYBSlEw%2FhFvnlMM%2FoU51YjKLHiThZj4jaLLO9AVQUwLNou9CehuHWlMWS1rXVfbZXRHxH%2Fc5ejTk%2FYYBSlxZ2dk3A9f%2FCMRGesE6CxTPIzpV4OIH2rmX0VF6jsQF6Mjj3zd%2Fr57GvWdSoxLVcoYHkXX1wNOJwq%2FLfBUIZ8p2p0yRAORAh4Ub%2FExa23X%2BeAee8ms%2FNoVr8FANK4v8a%2BQ2MHioDqQO2Iml2%2B2H3zLzMHfdzjPhIn9KLnVmIzq%2FTTa5GH40CMVkY7o01GI0ATtUO91YJ0UKEIX39siXgbW2M9npW%2F75YhAoYvCphdd0pvjAl37%2Fu6rZ9%2BAuY0UFHP8TZpAjXZfykY6Bw2eJBV4FBFSwLwKW%2Fv64A%3D%3D; _UP_30C_6A_=st9656201988x4f9s5u7k25rn94x443v; _UP_TS_=sg115433f1ee8e70e0b2c745a9181392f63; _UP_E37_B7_=sg115433f1ee8e70e0b2c745a9181392f63; _UP_TG_=st9656201988x4f9s5u7k25rn94x443v; _UP_335_2B_=1; __pus=104e967d110878521b6df1d9f6546c03AASCTtzaNF5mymJVQqt/eqN0sKng3NQKS/AnEbwHH60RF3FpZL7z/VS8mVCu3bx/Binsr7SIUtQWIGy+PsiArT7r; __kp=3cd98140-18fb-11ef-ac79-6fe31ea8d29b; __kps=AATigrIm8ZMkmgRe84X0L60X; __ktd=fHE/q+Gp/erxdMxL10N+jA==; __uid=AATigrIm8ZMkmgRe84X0L60X; __puus=7ddfaad858a8a0951d70a39907569e44AAT3QFzCWPB8b2x5VBflU9Q/b5iOrD8AEVghTNZYXWqTfZcQwxIsl9RcE8/fsAgIE3uMVLPhxEH5hM1lotc2Kkq7dW1UaMbu80Bcpa0V8mfXP/7Jzi/h3cb/Ud+KgjqkLkVZ9cmtwDIEolOVZuZcp4ZxAhIRZ1bjEbuP/40TRl3EUZ8FnN+n0tTy+15/fyVNGmxNs2N5IkbuLpIbuv7Bh8mV"
+                },
+                "playerType": 0,
+                "type": 3
+            },
+            {
+                "key": "kuaikan",
+                "name": "🛥︎┃快看视频┃🛥︎",
+                "api": "./js/kuaikan.js",
+                "timeout": 30,
+                "ext": {
+                    "box": "CatOpen"
+                },
+                "playerType": 0,
+                "type": 3
+            },
+            {
+                "key": "douban",
+                "name": "🍥┃豆瓣┃🍥",
+                "api": "./js/douban.js",
+                "timeout": 30,
+                "ext": {
+                    "box": "CatOpen"
+                },
+                "playerType": 0,
+                "type": 3
+            }
+        ]
+    },
+    "read": {
+        "sites": [
+            {
+                "key": "dj0898_book_open",
+                "name": "🎵┃世纪DJ音乐网┃🎵",
+                "api": "./js/dj0898_book_open.js",
+                "timeout": 30,
+                "ext": {
+                    "box": "CatOpen"
+                },
+                "type": 10
+            },
+            {
+                "key": "liujiushu",
+                "name": "📚︎┃六九书吧┃📚︎",
+                "api": "./js/liujiushu.js",
+                "timeout": 30,
+                "ext": {
+                    "box": "CatOpen"
+                },
+                "type": 10
+            },
+            {
+                "key": "audiomack",
+                "name": "🎵┃音声┃🎵",
+                "api": "./js/audiomack.js",
+                "timeout": 30,
+                "ext": {
+                    "box": "CatOpen"
+                },
+                "type": 10
+            },
+            {
+                "key": "bqg_open",
+                "name": "📚︎┃笔趣阁┃📚︎",
+                "api": "./js/bqg_open.js",
+                "timeout": 30,
+                "ext": {
+                    "box": "CatOpen"
+                },
+                "type": 10
+            },
+            {
+                "key": "ttkan",
+                "name": "📚︎┃天天看小说┃📚︎",
+                "api": "./js/ttkan.js",
+                "timeout": 30,
+                "ext": {
+                    "box": "CatOpen"
+                },
+                "type": 10
+            },
+            {
+                "key": "bookan",
+                "name": "🎵┃看书┃🎵",
+                "api": "./js/bookan.js",
+                "timeout": 30,
+                "ext": {
+                    "box": "CatOpen"
+                },
+                "type": 10
+            }
+        ]
+    },
+    "pan": {
+        "sites": []
+    }
+}
